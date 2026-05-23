@@ -2,7 +2,8 @@
 
 Personal portfolio website built with React, TypeScript, and Tailwind CSS.
 
-**Live:** *(fill in after deploying)*
+**Live:** [abdulsami.app](https://abdulsami.app)
+**GitHub:** [github.com/abdulsami-1/abdulsami-portfolio](https://github.com/abdulsami-1/abdulsami-portfolio)
 
 ## Tech Stack
 
